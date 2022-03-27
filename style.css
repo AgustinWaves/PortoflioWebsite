@@ -163,7 +163,7 @@ nav #menu li a:hover {
 #resize #menu {
       height: 90px;
       position: absolute;
-      left: 45%;
+      left: 42%;
       transform: translateX(-40%);
       text-align: center;
       display: table-cell;
